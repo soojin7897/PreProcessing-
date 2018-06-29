@@ -14,4 +14,8 @@ I proceed process as below
 5) Baseline remove : [-1, 0] remove
 6) ICA(Independent Component Analysis)
   
-thank you
+Below is a pre-processing result photo
+![1](https://user-images.githubusercontent.com/26627608/42083207-2fa4c6ee-7bc5-11e8-8d50-35cc04df1659.JPG)
+![2](https://user-images.githubusercontent.com/26627608/42083211-31ef5202-7bc5-11e8-9653-255ac1ad0a6f.JPG)
+![3](https://user-images.githubusercontent.com/26627608/42083214-33da8e88-7bc5-11e8-8dc8-1defd5dae266.JPG)
+
